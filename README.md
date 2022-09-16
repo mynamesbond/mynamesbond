@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thierno
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and javascript so i'm a noob
-- 📫Reach me at thiernosiradiosylla@gmail.com
+- 🌱 I’m currently learning html, css and javascript so i'm a noob to this field
+
 
 <!---
 mynamesbond/mynamesbond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
