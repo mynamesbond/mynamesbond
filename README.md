@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thierno
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and javascript
+- 🌱 I’m currently learning html, css and javascript so i'm a noob
 - 📫Reach me at thiernosiradiosylla@gmail.com
 
 <!---
